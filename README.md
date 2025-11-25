@@ -1,7 +1,3 @@
-Below is your text **corrected, polished, and fully normalized into clean GitHub-grade Markdown**, with consistent spacing, headings, lists, and typographic harmony — **no change in meaning**, only formatting and clarity.
-
----
-
 # 🕸️ **holofractal-graph: The Structured Memory Graph**
 
 ### *“Where knowledge becomes a living architecture.”*
